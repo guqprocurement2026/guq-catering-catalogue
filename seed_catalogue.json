@@ -1,0 +1,328 @@
+{
+  "hotels": [
+    {
+      "supplier": "Mandarin Oriental Doha",
+      "tier": "High-End",
+      "status": "Recommend continuing to use - should we need a high end option",
+      "categories": [
+        {
+          "category": "Coffee Break",
+          "average_price_qar": 180,
+          "menu_url": "menus/Coffee Break Menu(1).pdf",
+          "source_files": [
+            "Coffee Break Menu(1).pdf"
+          ]
+        },
+        {
+          "category": "Buffet",
+          "average_price_qar": 230,
+          "menu_url": "menus/Price list for GUQ(1).pdf",
+          "source_files": [
+            "Price list for GUQ(1).pdf"
+          ]
+        },
+        {
+          "category": "Canapés",
+          "average_price_qar": 250,
+          "menu_url": "menus/MODOH_BANQUET-CANAPES_MENU 1(1).pdf",
+          "source_files": [
+            "MODOH_BANQUET-CANAPES_MENU 1(1).pdf"
+          ]
+        }
+      ],
+      "from_price": 180,
+      "overall_average": 220
+    },
+    {
+      "supplier": "St. Regis Doha",
+      "tier": "High-End",
+      "status": "Recommend continuing to use",
+      "categories": [
+        {
+          "category": "Coffee Break",
+          "average_price_qar": 96,
+          "menu_url": "menus/COFFEE BREAKS MENU(1).pdf",
+          "source_files": [
+            "COFFEE BREAKS MENU(1).pdf"
+          ]
+        },
+        {
+          "category": "Breakfast",
+          "average_price_qar": 198,
+          "menu_url": "menus/BREAKFAST SELECTION PACKAGE(1).pdf",
+          "source_files": [
+            "BREAKFAST SELECTION PACKAGE(1).pdf"
+          ]
+        },
+        {
+          "category": "Buffet",
+          "average_price_qar": 211,
+          "menu_url": "menus/combined/st-regis-doha--buffet.pdf",
+          "source_files": [
+            "BUFFET MENU-INTENATIONAL, INDIAN, ASIAN, ARABIC, KIDS(1).pdf",
+            "DDR LUNCH & DINNER(1).pdf"
+          ]
+        },
+        {
+          "category": "Canapés",
+          "average_price_qar": 201,
+          "menu_url": "menus/CANAPES MENUS(1).pdf",
+          "source_files": [
+            "CANAPES MENUS(1).pdf"
+          ]
+        },
+        {
+          "category": "Set Menu",
+          "average_price_qar": 210,
+          "menu_url": "menus/SET MENU(1).pdf",
+          "source_files": [
+            "SET MENU(1).pdf"
+          ]
+        },
+        {
+          "category": "Beverage",
+          "average_price_qar": 305,
+          "menu_url": "menus/combined/st-regis-doha--beverage.pdf",
+          "source_files": [
+            "Classic Beverage Menu Package(1).pdf",
+            "Enhanced Beverage Menu Package (1)(1).pdf",
+            "Beverage Menu Premium Package(1).pdf"
+          ]
+        }
+      ],
+      "from_price": 96,
+      "overall_average": 204
+    },
+    {
+      "supplier": "Four Seasons Hotel Doha",
+      "tier": "High-End",
+      "status": "Recommend continuing to use - should we need a high end option",
+      "categories": [
+        {
+          "category": "Coffee Break",
+          "average_price_qar": 128,
+          "menu_url": "menus/Coffee Break Menu Offerings - Four Seasons Hotel Doha(1).pdf",
+          "source_files": [
+            "Coffee Break Menu Offerings - Four Seasons Hotel Doha(1).pdf"
+          ]
+        },
+        {
+          "category": "Breakfast",
+          "average_price_qar": 170,
+          "menu_url": "menus/Breakfast Buffet Menu - Four Seasons Hotel Doha(1).pdf",
+          "source_files": [
+            "Breakfast Buffet Menu - Four Seasons Hotel Doha(1).pdf"
+          ]
+        },
+        {
+          "category": "Buffet",
+          "average_price_qar": 385,
+          "menu_url": "menus/combined/four-seasons-hotel-doha--buffet.pdf",
+          "source_files": [
+            "International Buffet Menu - Four Seasons Hotel Doha(1).pdf",
+            "Arabic Cuisine - Buffet Menu - Four Seasons Hotel Doha(1).pdf",
+            "Asian Buffet Menu - Four Seasons Hotel Doha(1).pdf"
+          ]
+        },
+        {
+          "category": "Canapés",
+          "average_price_qar": 280,
+          "menu_url": "menus/combined/four-seasons-hotel-doha--canap-s.pdf",
+          "source_files": [
+            "Selection of Canape Menus (NEW)(1).pdf",
+            "Build your own Canape Menu - Four Seasons Hotel Doha(1).pdf"
+          ]
+        }
+      ],
+      "from_price": 128,
+      "overall_average": 241
+    },
+    {
+      "supplier": "Marriott Marquis City Center Doha",
+      "tier": "Mid",
+      "status": "Recommend continuing to use",
+      "categories": [
+        {
+          "category": "Coffee Break",
+          "average_price_qar": 105,
+          "menu_url": "menus/combined/marriott-marquis-city-center-doha--coffee-break.pdf",
+          "source_files": [
+            "Arrival Coffee Break Menus.pdf",
+            "Mid Morning Coffee Break Menus.pdf",
+            "Afternoon Coffee Break Menus.pdf",
+            "Premium Coffee Break Menus.pdf"
+          ]
+        },
+        {
+          "category": "Buffet",
+          "average_price_qar": 170,
+          "menu_url": "menus/combined/marriott-marquis-city-center-doha--buffet.pdf",
+          "source_files": [
+            "Lunch Buffet Menus.pdf",
+            "Dinner Buffet Menus.pdf",
+            "Light Buffet Lunch Menus.pdf"
+          ]
+        },
+        {
+          "category": "Canapés",
+          "average_price_qar": 180,
+          "menu_url": "menus/Cocktail Reception Menus.pdf",
+          "source_files": [
+            "Cocktail Reception Menus.pdf"
+          ]
+        },
+        {
+          "category": "Meeting Package",
+          "average_price_qar": 320,
+          "menu_url": "menus/Catering Proposal _Georgetown University Qatar.pdf",
+          "source_files": [
+            "Catering Proposal _Georgetown University Qatar.pdf"
+          ]
+        }
+      ],
+      "from_price": 105,
+      "overall_average": 194
+    },
+    {
+      "supplier": "Mondrian Doha",
+      "tier": "Mid",
+      "status": "Recommend continuing to use",
+      "categories": [
+        {
+          "category": "Coffee Break",
+          "average_price_qar": 75,
+          "menu_url": "menus/Menu Mondrian Doha(1).pdf",
+          "source_files": [
+            "Menu Mondrian Doha(1).pdf"
+          ]
+        },
+        {
+          "category": "Breakfast",
+          "average_price_qar": 125,
+          "menu_url": "menus/Menu Mondrian Doha(1).pdf",
+          "source_files": [
+            "Menu Mondrian Doha(1).pdf"
+          ]
+        },
+        {
+          "category": "Buffet",
+          "average_price_qar": 165,
+          "menu_url": "menus/Menu Mondrian Doha(1).pdf",
+          "source_files": [
+            "Menu Mondrian Doha(1).pdf"
+          ]
+        },
+        {
+          "category": "Canapés",
+          "average_price_qar": 150,
+          "menu_url": "menus/Menu Mondrian Doha(1).pdf",
+          "source_files": [
+            "Menu Mondrian Doha(1).pdf"
+          ]
+        },
+        {
+          "category": "Set Menu",
+          "average_price_qar": 250,
+          "menu_url": "menus/Menu Mondrian Doha(1).pdf",
+          "source_files": [
+            "Menu Mondrian Doha(1).pdf"
+          ]
+        }
+      ],
+      "from_price": 75,
+      "overall_average": 153
+    },
+    {
+      "supplier": "City Centre Rotana Doha",
+      "tier": "Mid",
+      "status": "Recommend continuing to use",
+      "categories": [
+        {
+          "category": "Coffee Break",
+          "average_price_qar": 125,
+          "menu_url": "menus/combined/city-centre-rotana-doha--coffee-break.pdf",
+          "source_files": [
+            "Coffee Break Menu - Georgetown University.pdf",
+            "VVIP Coffee Break-Georgetown University.pdf"
+          ]
+        },
+        {
+          "category": "Buffet",
+          "average_price_qar": 150,
+          "menu_url": "menus/5 Different Lunch or Dinner Menu -  Georgetown University.pdf",
+          "source_files": [
+            "5 Different Lunch or Dinner Menu -  Georgetown University.pdf"
+          ]
+        },
+        {
+          "category": "Canapés",
+          "average_price_qar": 130,
+          "menu_url": "menus/Cocktail Menu -  Georgetown University.pdf",
+          "source_files": [
+            "Cocktail Menu -  Georgetown University.pdf"
+          ]
+        },
+        {
+          "category": "Set Menu",
+          "average_price_qar": 150,
+          "menu_url": "menus/Set Menu-Georgetown University.pdf",
+          "source_files": [
+            "Set Menu-Georgetown University.pdf"
+          ]
+        }
+      ],
+      "from_price": 125,
+      "overall_average": 139
+    },
+    {
+      "supplier": "JW Marriott Marquis City Center Doha",
+      "tier": "Mid",
+      "status": "Recommend continuing to use",
+      "categories": [
+        {
+          "category": "Coffee Break",
+          "average_price_qar": 90,
+          "menu_url": "menus/Catering Packages Georgetown  2026 - 2027_JW Marriott Marquis.pdf",
+          "source_files": [
+            "Catering Packages Georgetown  2026 - 2027_JW Marriott Marquis.pdf"
+          ]
+        },
+        {
+          "category": "Buffet",
+          "average_price_qar": 165,
+          "menu_url": "menus/combined/jw-marriott-marquis-city-center-doha--buffet.pdf",
+          "source_files": [
+            "Catering Packages Georgetown  2026 - 2027_JW Marriott Marquis.pdf",
+            "Live Station Buffet Menu 2026_JW Marriott.pdf"
+          ]
+        },
+        {
+          "category": "Canapés",
+          "average_price_qar": 180,
+          "menu_url": "menus/Cocktail Reception Menu Options_JW Marriott Marquis.pdf",
+          "source_files": [
+            "Cocktail Reception Menu Options_JW Marriott Marquis.pdf"
+          ]
+        },
+        {
+          "category": "Family Style",
+          "average_price_qar": 200,
+          "menu_url": "menus/Catering Packages Georgetown  2026 - 2027_JW Marriott Marquis.pdf",
+          "source_files": [
+            "Catering Packages Georgetown  2026 - 2027_JW Marriott Marquis.pdf"
+          ]
+        },
+        {
+          "category": "Meeting Package",
+          "average_price_qar": 225,
+          "menu_url": "menus/Catering Packages Georgetown  2026 - 2027_JW Marriott Marquis.pdf",
+          "source_files": [
+            "Catering Packages Georgetown  2026 - 2027_JW Marriott Marquis.pdf"
+          ]
+        }
+      ],
+      "from_price": 90,
+      "overall_average": 172
+    }
+  ]
+}
