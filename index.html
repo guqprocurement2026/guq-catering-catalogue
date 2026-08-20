@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#061b33">
+  <title>GU-Q Catering Catalogue</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="shell topbar-inner">
+    <div class="identity"><div class="seal">GU</div><div><strong>Georgetown University in Qatar</strong><small>Finance · Preferred Catering Catalogue</small></div></div>
+    <div class="top-search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg><input id="search" placeholder="Search hotel or catering category…" aria-label="Search catalogue"></div>
+    <div class="top-actions"><a class="btn btn-outline" id="eventsBtn" href="#" target="_blank" style="display:none;text-decoration:none">Events · Add menu</a><button class="btn btn-gold" onclick="document.getElementById('partners').scrollIntoView({behavior:'smooth'})">Browse partners</button></div>
+  </div>
+</header>
+<section class="hero"><div class="shell"><div class="hero-panel"><div class="hero-grid"><div><div class="eyebrow">Academic Year 2026–2027 · Preferred Partners</div><h1>Catering, made easier to choose.</h1><p class="hero-lead">One hotel per card, catering categories at a glance, average quoted pricing, and one-click access to the current menu maintained by the Events team.</p><div class="hero-meta"><span class="meta-pill"><b>Events</b> uploads menus</span><span class="meta-pill"><b>Finance</b> owns pricing & access</span><span class="meta-pill"><b>GitHub</b> publishes automatically</span></div></div><div class="hero-stats"><div class="hero-stat"><strong id="statHotels">—</strong><span>Hotel partners</span></div><div class="hero-stat"><strong id="statCategories">—</strong><span>Menu categories</span></div><div class="hero-stat"><strong id="statAvg">—</strong><span>Avg. category price</span></div><div class="hero-stat"><strong id="statRange">—</strong><span>Average price range</span></div></div></div></div></div></section>
+<div class="control-wrap"><div class="shell"><div class="control-panel"><div class="filters" id="filters"></div><select id="sort" class="sort" aria-label="Sort partners"><option value="name">Sort: Hotel A–Z</option><option value="price">Sort: Lowest starting price</option><option value="average">Sort: Lowest overall average</option></select></div></div></div>
+<main id="partners" class="shell"><div class="section-head"><div><h2>Preferred catering partners</h2><p id="resultCount">Loading catalogue…</p></div><div class="legend">Lower to higher average price <span></span></div></div><div class="grid" id="grid"></div></main>
+<footer class="footer"><div class="shell footer-inner"><div class="live"><span class="dot" id="statusDot"></span><span id="statusText">Loading catalogue data…</span></div><div><a href="CONNECTION_TEST.html" style="color:inherit">System connection test</a> · Prices are controlled by Finance.</div></div></footer>
+<div class="compare-dock" id="compareDock"><strong style="font-size:11px">Compare</strong><div class="compare-items" id="compareItems"></div><button class="compare-clear" id="compareClear">Clear</button><button class="compare-open" id="compareOpen">Compare selected</button></div>
+<div class="modal" id="compareModal"><div class="modal-card"><div class="modal-head"><h3>Hotel comparison</h3><button class="modal-close" id="modalClose">×</button></div><div class="matrix-wrap" id="matrixWrap"></div></div></div>
+<script src="app.js"></script>
+</body>
+</html>
