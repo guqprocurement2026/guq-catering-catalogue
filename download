@@ -1,8 +1,0 @@
-# Local / Finance-only operational files
-backend/*.xlsx
-*.token
-.env
-.DS_Store
-Thumbs.db
-
-# Keep source code and documentation tracked.
